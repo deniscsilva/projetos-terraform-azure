@@ -1,0 +1,10 @@
+[Hands-On] -  Terraform HCL Basics
+
+1 - Criar o Terraform Settings Block - OK
+2 - Criar o Terraform Provider Block - OK
+3 - Criar o Terraform Data Block (Resource Group) - OK
+4 - Criar o Terraform Local Variables Block - OK
+5 - Criar o Terraform Resource Block (Storage Account) - OK
+6 - Criar o Terraform Input Variables Block - OK
+7 - Criar o Terraform Output Values Block - OK
+8 - Criar o Terraform Modules Block (Exemplo de utilização de módulo) - OK

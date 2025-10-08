@@ -36,5 +36,5 @@ terraform.rc
 # Direnv environment files
 .envrc
 
-# Direnv environment files
-.envrc
+# Prompt
+Prompt.txt
